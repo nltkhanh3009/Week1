@@ -1,0 +1,14 @@
+D:\Thực tập\Week1code\Week1code\obj\Debug\net8.0\Week1code.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thực tập\Week1code\Week1code\obj\Debug\net8.0\Week1code.AssemblyInfoInputs.cache
+D:\Thực tập\Week1code\Week1code\obj\Debug\net8.0\Week1code.AssemblyInfo.cs
+D:\Thực tập\Week1code\Week1code\obj\Debug\net8.0\Week1code.csproj.CoreCompileInputs.cache
+D:\Thực tập\Week1code\Week1code\bin\Debug\net8.0\Week1code.exe
+D:\Thực tập\Week1code\Week1code\bin\Debug\net8.0\Week1code.deps.json
+D:\Thực tập\Week1code\Week1code\bin\Debug\net8.0\Week1code.runtimeconfig.json
+D:\Thực tập\Week1code\Week1code\bin\Debug\net8.0\Week1code.dll
+D:\Thực tập\Week1code\Week1code\bin\Debug\net8.0\Week1code.pdb
+D:\Thực tập\Week1code\Week1code\obj\Debug\net8.0\Week1code.dll
+D:\Thực tập\Week1code\Week1code\obj\Debug\net8.0\refint\Week1code.dll
+D:\Thực tập\Week1code\Week1code\obj\Debug\net8.0\Week1code.pdb
+D:\Thực tập\Week1code\Week1code\obj\Debug\net8.0\Week1code.genruntimeconfig.cache
+D:\Thực tập\Week1code\Week1code\obj\Debug\net8.0\ref\Week1code.dll
