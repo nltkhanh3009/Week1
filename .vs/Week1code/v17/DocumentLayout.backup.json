@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Th\u1EF1c t\u1EADp\\Week1code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A308E6-B7BB-445D-85E2-946A00A37DA4}|Week1code\\Week1code.csproj|d:\\th\u1EF1c t\u1EADp\\week1code\\week1code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6A308E6-B7BB-445D-85E2-946A00A37DA4}|Week1code\\Week1code.csproj|solutionrelative:week1code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BFC424-CF2A-4C13-BF1A-DA95587E53E5}|Solution Items{C9BFC424-CF2A-4C13-BF1A-DA95587E53E5}|D:\\Th\u1EF1c t\u1EADp\\Week1code\\LopTruuTuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BFC424-CF2A-4C13-BF1A-DA95587E53E5}|Solution Items{C9BFC424-CF2A-4C13-BF1A-DA95587E53E5}|solutionrelative:LopTruuTuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A308E6-B7BB-445D-85E2-946A00A37DA4}|Week1code\\Week1code.csproj|d:\\th\u1EF1c t\u1EADp\\week1code\\week1code\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6A308E6-B7BB-445D-85E2-946A00A37DA4}|Week1code\\Week1code.csproj|solutionrelative:week1code\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BFC424-CF2A-4C13-BF1A-DA95587E53E5}|Solution Items{C9BFC424-CF2A-4C13-BF1A-DA95587E53E5}|D:\\Th\u1EF1c t\u1EADp\\Week1code\\Interf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BFC424-CF2A-4C13-BF1A-DA95587E53E5}|Solution Items{C9BFC424-CF2A-4C13-BF1A-DA95587E53E5}|solutionrelative:Interf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Interface1.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp\\Week1code\\Week1code\\Interface1.cs",
+              "RelativeDocumentMoniker": "Week1code\\Interface1.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp\\Week1code\\Week1code\\Interface1.cs",
+              "RelativeToolTip": "Week1code\\Interface1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:36:38.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Interf.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp\\Week1code\\Interf.cs",
+              "RelativeDocumentMoniker": "Interf.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp\\Week1code\\Interf.cs",
+              "RelativeToolTip": "Interf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:31:26.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LopTruuTuong.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp\\Week1code\\LopTruuTuong.cs",
+              "RelativeDocumentMoniker": "LopTruuTuong.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp\\Week1code\\LopTruuTuong.cs",
+              "RelativeToolTip": "LopTruuTuong.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:27:44.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp\\Week1code\\Week1code\\Program.cs",
+              "RelativeDocumentMoniker": "Week1code\\Program.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp\\Week1code\\Week1code\\Program.cs",
+              "RelativeToolTip": "Week1code\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T03:39:52.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
